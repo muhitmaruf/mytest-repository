@@ -1,12 +1,12 @@
-**TEST REPO.**
+**TEST REPOSITORY.**
 Normal Text 
-**Here is my bold text. **
+**Here is my bold text.**
 
 *style with italic*
 
-[profile](https://giyhub.com/profile)
+[profile](https://github.com/muhitmaruf/mytest-repository)
 
 
-# Heading Title text 
+# Heading Title Text 
 ## Section Text 
 ### Subsection 
